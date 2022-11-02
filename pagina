@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi primera web</title>
+</head>
+<body>
+    <form action="/formulario" method="POST">
+      <label for="nombre">Nombre</label>
+      <input value="Diego" type="text" id="nombre" name="nombre" placeholder="Nombre" />
+      <br>
+      <label for="Apellido">Apellido</label>
+      <input value="Maradona" type="text" id="Apellido" name="Apellido" placeholder="chanchitp" />
+      <br>
+      <label for="nick">nick</label>
+      <input value="sobrenombre" type="text" id="nick" name="nick" placeholde="nick"/>
+      <br>
+      <label for="comentario">Comentario</label>
+      <br>
+      <textarea rows="10" cols="50" id="comentario" placeholder="ingrese comentario" name="comentario">este es un valor por defecto</textarea>
+      <br>
+      <input type="submit" />
+​
+    </form>
+  <h1>Carrera Full Stack</h1>
+  <h2>Con el Profesor Marcelo y Matias</h2>
+  <h3>mi tercer heading</h3>
+  <h4>mi cuarto heading</h4>
+  <h5>mi quinto heading</h5>
+  <h6>ultimo</h6>
+  <p>mi nombre es mariano</p>
+  <h1>MARIANO</h1>
+  <hr>Aqui iria lo importante
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate unde totam illum quam repudiandae rem excepturi minima, ullam ipsam earum velit ea natus beatae, fuga non soluta. Quaerat, saepe maiores!
+  </p>Este texto es <span style="color:blue">MUCHO MAS LARGO</span> que el resto <br> Y ES PARA MOSTRAR <br>
+ <!--aqui podemos agregar cualquier dato es comentario y no va a aparece-->
+ <a target="_blank" href="https://benitojuarez.gov.ar/inicio-de-la-carrera-de-desarrollador-web-full-stack/">Pagina de prueba</a>
+  <br>
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>enlace</title>
+  </head>
+  <body>
+    
+  </body>
+  </html>
+  <br>
+ <img src="mancha.png"/
+ 
+<form></form>
+​
+</body>
+​
+</html>
+Contraer
